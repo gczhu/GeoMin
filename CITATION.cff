@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use GeoMin, please cite the paper below."
+title: "GeoMin: Data-Efficient Semi-Supervised RLVR via Geometric Distribution Modeling"
+type: software
+license: Apache-2.0
+url: "https://arxiv.org/abs/2606.04516"
+authors:
+  - family-names: Zhu
+    given-names: Guangcheng
+  - family-names: Yang
+    given-names: Shenzhi
+  - family-names: Wang
+    given-names: Haobo
+  - family-names: Zheng
+    given-names: Xing
+  - family-names: Ma
+    given-names: Yingfan
+  - family-names: Feng
+    given-names: Xuening
+  - family-names: Chen
+    given-names: Zhongqi
+  - family-names: Tang
+    given-names: Kai
+  - family-names: Zang
+    given-names: Zhengqing
+  - family-names: Song
+    given-names: Bowen
+  - family-names: Wang
+    given-names: Weiqiang
+  - family-names: Chen
+    given-names: Gang
+preferred-citation:
+  type: article
+  title: "GeoMin: Data-Efficient Semi-Supervised RLVR via Geometric Distribution Modeling"
+  authors:
+    - {family-names: Zhu, given-names: Guangcheng}
+    - {family-names: Yang, given-names: Shenzhi}
+    - {family-names: Wang, given-names: Haobo}
+    - {family-names: Zheng, given-names: Xing}
+    - {family-names: Ma, given-names: Yingfan}
+    - {family-names: Feng, given-names: Xuening}
+    - {family-names: Chen, given-names: Zhongqi}
+    - {family-names: Tang, given-names: Kai}
+    - {family-names: Zang, given-names: Zhengqing}
+    - {family-names: Song, given-names: Bowen}
+    - {family-names: Wang, given-names: Weiqiang}
+    - {family-names: Chen, given-names: Gang}
+  journal: "arXiv preprint arXiv:2606.04516"
+  year: 2026
+  doi: "10.48550/arXiv.2606.04516"
+  url: "https://arxiv.org/abs/2606.04516"
